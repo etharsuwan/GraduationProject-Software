@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704711419753",
+    "project_id": "etharproject-9456f",
+    "storage_bucket": "etharproject-9456f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704711419753:android:b6e463678f4c77d3533ff8",
+        "android_client_info": {
+          "package_name": "com.etharproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704711419753-6ci32qbeni5m36eudaeak6mbd4m6346d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcAci3SIIaTfDbG8x82d9laf9pBB1Asvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704711419753-6ci32qbeni5m36eudaeak6mbd4m6346d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
